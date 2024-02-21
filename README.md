@@ -8,14 +8,17 @@
 
 ---
 
-#### _Contact Information_
+#### _Contact_
 <section style="background: #2d333b;border-radius: 1rem; padding: 1rem;">
 <p style="margin: 0; color: #84b990">E-mail</p>
-<p style="margin:0"> - ✉️  <a href="mailto:khantwai.kyaw@outlook.com">khantwai.kyaw@outlook.com</a></p>
-<p style="margin: 0"> - ✉️  <a href="mailto:khantwaikyaw11@gmail.com">khantwaikyaw11@gmail.com</a></p>
+<p style="margin:0"> ✉️  <a href="mailto:khantwai.kyaw@outlook.com">khantwai.kyaw@outlook.com</a></p>
+<p style="margin: 0"> ✉️  <a href="mailto:khantwaikyaw11@gmail.com">khantwaikyaw11@gmail.com</a></p>
+<hr />
+<p style="margin: 0; color: #84b990">Personal Website</p>
+<p style="margin: 0"> 🔗  <a href="https://emilyhub.com" target="_blank" rel="noreferrer">https://emilyhub.com</a></p>
 <hr />
 <p style="margin: 0; color: #84b990">Location</p>
-<p style="margin: 0"> - 🌍  Yangon, Myanmar</p>
+<p style="margin: 0"> 🌍  Yangon, Myanmar</p>
 </section>
 
 ---
