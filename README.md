@@ -1,10 +1,12 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khant Wai Kyaw
+# Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Khant Wai Kyaw
 
 ## Full-stack Developer
 
-  <a href="https://app.daily.dev/khantwaikyaw">
-    <img src="https://api.daily.dev/devcards/23a2879619544e1594a75da7d0b82f64.png?r=2bv" width="400" alt="Khant Wai Kyaw's Dev Card"/>
-  </a>
+[//]: # (Dev Card)
+
+<a href="https://app.daily.dev/khantwaikyaw">
+<img src="https://api.daily.dev/devcards/v2/L7KtP16ChAx7ZKLjxjBYo.png?type=wide&r=kjk" width="652" alt="Khant Wai Kyaw's Dev Card"/>
+</a>
 
 ---
 
