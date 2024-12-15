@@ -1,55 +1,99 @@
-# Hello! I'm Khant Wai Kyaw 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃
+<div align="center">
+  <h1 style="color: #ff8c00; font-size: 2.5rem;">Hello! I'm Khant Wai Kyaw </h1>
+  
+  <div style="color: #ff8c00; font-size: 1.5rem">𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃</div>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=ff8c00&center=true&width=600&lines=Sleep+To+Code; Use+the+magic+word+``Tomorrow``;Turning+Code+into+Dreams" alt="Typing SVG" />
+  </a>
+</div>
+
+---
 
 - 🛌 Tomorrow's a great day to start...
 - 💤 My code is always asleep
-- 🦇 Looking for a jester to enjoy some Mr. Bean moments
+- 🦇 Looking for joker to enjoy Mr. Bean
 
-(◣_◢) Yes, I'm ᗷᗩTᗰᗩᑎ
+---
 
-## I am here
+### 🛠️ **Tech Stacks**
 
-<span style="display: flex; align-items: center; gap: 0.5rem;">
-  <a href="https://www.linkedin.com/in/khantwaikyaw/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" style="margin-top: 0.5rem;"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,java,spring,go,aws,gcp,docker" alt="Tech Stack Icons" />
+  <hr />
+  Bla Bla Bla ...
+</div>
+
+---
+
+### 📊 **Status**
+
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=khantwaikyaw&show_icons=true&hide_border=true&theme=radical&bg_color=00000000&title_color=ff8c00&text_color=ff8c00&icon_color=ff8c00"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=khantwaikyaw&show_icons=true&hide_border=true&theme=light&bg_color=ffffff00&title_color=ff8c00&text_color=ff8c00&icon_color=ff8c00"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khantwaikyaw&show_icons=true&hide_border=true&theme=light&bg_color=ffffff00&title_color=ff8c00&text_color=ff8c00&icon_color=ff8c00" alt="GitHub Stats" />
+  </picture>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=khantwaikyaw&layout=compact&hide_border=true&theme=radical&bg_color=00000000&title_color=ff8c00&text_color=ff8c00&icon_color=ff8c00"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=khantwaikyaw&layout=compact&hide_border=true&theme=light&bg_color=ffffff00&title_color=ff8c00&text_color=ff8c00&icon_color=ff8c00"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khantwaikyaw&layout=compact&hide_border=true&theme=light&bg_color=ffffff00&title_color=ff8c00&text_color=ff8c00&icon_color=ff8c00" alt="Top Languages" />
+  </picture>
+</div>
+
+---
+
+### 📈 **Streak**
+
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=khantwaikyaw&theme=radical&hide_border=true&background=00000000&stroke=ff8c00&fire=ff8c00&ring=ff8c00&currStreakNum=ff8c00&sideNums=ff8c00&currStreakLabel=ff8c00&sideLabels=ff8c00&dates=ff8c00"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=khantwaikyaw&theme=light&hide_border=true&background=ffffff00&stroke=ff8c00&fire=ff8c00&ring=ff8c00&currStreakNum=ff8c00&sideNums=ff8c00&currStreakLabel=ff8c00&sideLabels=ff8c00&dates=ff8c00"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khantwaikyaw&theme=light&hide_border=true&background=ffffff00&stroke=ff8c00&fire=ff8c00&ring=ff8c00&currStreakNum=ff8c00&sideNums=ff8c00&currStreakLabel=ff8c00&sideLabels=ff8c00&dates=ff8c00" alt="GitHub Streak" />
+  </picture>
+</div>
+
+---
+
+### 🎵 **Sleep to listen**
+
+<div align="center">
+  <a href="https://open.spotify.com/user/username">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing">
   </a>
-  <a href="https://lazy-dev.me" target="_blank" rel="noreferrer" style="text-decoration: none; display: flex; align-items: center;">
-    <img src="https://lazy-dev.me/images/logo-v2.gif" alt="Lazy Dev" width="33" height="33" style="border-radius: 2px;"/>
+</div>
+
+---
+
+### 📧 **Happy to link up with you! Cheers!**
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/khantwaikyaw/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</span>
-<span style="color: #5a5a5a; display: block; margin-top: 0.5rem;">
-  Happy to link up with you! Cheers!
-</span>
+  <a href="mailto:khantwaikyaw11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
 
-## 📊 GitHub Status
-
-<table align="center">
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=khantwaikyaw&show_icons=true&hide=&count_private=true&title_color=00bfff&text_color=dcdcdc&icon_color=00bfff&bg_color=2f4f4f&hide_border=true&show_icons=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=khantwaikyaw&show_icons=true&hide=&count_private=true&title_color=4682b4&text_color=333333&icon_color=4682b4&bg_color=f0f0f0&hide_border=true&show_icons=true" />
-        <img src="https://github-readme-stats.vercel.app/api?username=khantwaikyaw&show_icons=true&hide=&count_private=true&title_color=4682b4&text_color=333333&icon_color=4682b4&bg_color=f0f0f0&hide_border=true&show_icons=true" alt="khantwaikyaw's GitHub stats" />
-      </picture>
-    </td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=khantwaikyaw&stroke=dcdcdc&background=2f4f4f&ring=00bfff&fire=00bfff&currStreakNum=dcdcdc&currStreakLabel=00bfff&sideNums=dcdcdc&sideLabels=dcdcdc&dates=dcdcdc&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=khantwaikyaw&stroke=333333&background=f0f0f0&ring=4682b4&fire=4682b4&currStreakNum=333333&currStreakLabel=4682b4&sideNums=333333&sideLabels=333333&dates=333333&hide_border=true" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=khantwaikyaw&stroke=333333&background=f0f0f0&ring=4682b4&fire=4682b4&currStreakNum=333333&currStreakLabel=4682b4&sideNums=333333&sideLabels=333333&dates=333333&hide_border=true" alt="khantwaikyaw's GitHub streak" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=khantwaikyaw&langs_count=10&title_color=00bfff&text_color=dcdcdc&icon_color=00bfff&bg_color=2f4f4f&hide_border=true&locale=en&custom_title=Top%20Languages" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=khantwaikyaw&langs_count=10&title_color=4682b4&text_color=333333&icon_color=4682b4&bg_color=f0f0f0&hide_border=true&locale=en&custom_title=Top%20Languages" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khantwaikyaw&langs_count=10&title_color=4682b4&text_color=333333&icon_color=4682b4&bg_color=f0f0f0&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
-## Top Repositories
-
-I'm sorry. Can't tell you because I'm Batman.
+<div align="center"style="color: #ff8c00; font-size: 3rem">
+    (◣_◢) Yes, I'm ᗷᗩTᗰᗩᑎ
+</div>
